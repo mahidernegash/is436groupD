@@ -20,4 +20,4 @@ jobs:
         with:
           context: new1/
           push: true
-          tags: mahidernegash/new1:${{github.run_number}} 
+          tags: mahider123/new1:${{github.run_number}} 
