@@ -116,8 +116,7 @@ This documentation aligns with all the phases of system design, ensuring a compl
 
 ## **Deployment Information**
 - **GitHub Repository:** [Smart Health Tracker GitHub](https://github.com/mahidernegash/is436groupD.git)  
-- **Docker Hub Image URL:** [Smart Health Tracker on Docker](https://hub.docker.com/r/smarthealthtracker/system)  
+- **Docker Hub Image URL:** [Smart Health Tracker on Docker](https://hub.docker.com/r/umairk2403/group_proj)  
 - **Pull Command:**  
   ```bash
-  docker pull smarthealthtracker/system:latest
-
+  docker pull umairk2403/group_proj
